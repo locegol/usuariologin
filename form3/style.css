@@ -1,0 +1,65 @@
+body{
+    background-color:#363636;
+}
+.formulario{
+    margin: 150px auto ;
+    background-color: #ECF0F1;
+    height: 320px;
+width: 300px;
+border-radius: 5px;
+}
+.a{
+/* border:1px solid red; */
+height: 15px;
+width: 300px;
+/* background-image: -moz-element(red,blue); */
+/* background-image: linear-gradient(to right, red,orange,orange,green,blue,indigo,violet); */
+background-image: linear-gradient(to right,green,indigo,blue,orange,yellow);
+
+}
+
+
+
+
+/* background-image: linear-gradient( green,yellow,); */
+/* background-color: yellow; */
+/* background-image: linear-gradient(#2AAD62,#8E46AB,#3696D8,#E34D3D,#EFC415,); */
+/* background-image: radial-gradient(red, yellow, green); */
+
+/* background-image: linear-gradient(-90deg, red, yellow); */
+
+
+
+.span{
+    /* border:1px solid red; */
+    padding:25px 30px;
+    text-align: center;
+    color: #415C7C;
+}
+.contenedor{
+    padding: 0px 45px 60px 45px;
+    /* border:1px solid red; */
+    height: 150px;
+}
+.username input{
+    width: 215px;
+    height: 35px;
+    /* border:1px solid red; */
+    border-radius: 5px;
+}
+.password input{
+    margin-top: 25px;
+    width: 215px;
+    height: 35px;
+    border-radius: 2px;
+}
+.button button{
+    margin-top: 25px;
+    width: 215px;
+    height: 35px;
+    color: #fff;
+    background-color: #E84C3D;
+    border:none;
+    border-radius: 2px;
+
+}

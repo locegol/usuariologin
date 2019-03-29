@@ -1,0 +1,52 @@
+body{
+    background-color:#4D535C;
+    background-image: linear-gradient(#4D535C, #50555D);
+}
+.formulario{
+    background-color: #F1F2F4;
+    margin: 100px auto 30px auto; 
+    height: 500px;
+    width: 65%;
+    border-radius: 5px;
+    
+}
+.span{
+    padding: 10%;
+   /* border: 1px solid black;  */
+   text-align: center;
+}
+.contenedor{
+    padding: 0px 45px;
+    /* border: 1px solid red;  */
+    height: 180px;
+    
+}
+.username input{
+    /* border: 1px solid red;  */
+    height: 85px;
+    width: 350px;
+    background-color: #E5E7E9;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: #50555D;
+}
+.password input{
+    /* border: 1px solid red; */
+    height: 85px;
+    width: 350px;
+    background-color: #E5E7E9;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+.button{
+    /* border: 1px solid red; */
+    padding: 20px 45px;
+}
+.button button{
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 83px;
+    color: #fff;
+    background-image: linear-gradient(#6AD0C4, #3DAF9C);
+    border: none;
+    border-radius: 5px;
+}
